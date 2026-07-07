@@ -56,6 +56,12 @@ Top-N reporting.
 
 Power BI Desktop · Power Query (M) · DAX
 
+## Source Data
+
+Raw source files are in `/data`. These include the core sales, product,
+and returns files used to build this dashboard, along with some
+additional practice files from related data-cleaning exercises.
+
 ## Files
 
 | File | Description |
@@ -63,3 +69,4 @@ Power BI Desktop · Power Query (M) · DAX
 | `ZenithMart_Q1_2025_Sales.pbix` | Full Power BI project file |
 | `screenshots/dashboard_overview.png` | Dashboard preview image |
 | `docs/` | Learning notes covering the DAX/Power Query concepts used in this project |
+| `data/` | Contains the all csv files  used |
