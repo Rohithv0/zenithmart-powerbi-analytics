@@ -1,0 +1,6 @@
+OrderID,CustomerID,Product,Amount
+1001,C101,Laptop,55000
+1002,C102,Mouse,450
+1003,C103,Keyboard,1200
+1004,C104,Monitor,15000
+1005,C105,Printer,8500

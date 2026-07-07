@@ -1,0 +1,11 @@
+Region,ProductCode,Salesperson,Quantity,Amount
+North,P100,Rajesh Kumar,10,15000
+South,P100,Priya Sharma,8,12000
+North,P200,Aman Gupta,5,25000
+South,P200,Sneha Verma,6,30000
+East,P100,Rajesh Kumar,12,18000
+West,P200,Priya Sharma,7,35000
+East,P300,Aman Gupta,4,20000
+West,P300,Sneha Verma,9,45000
+North,P300,Rajesh Kumar,3,15000
+South,P300,Priya Sharma,11,55000

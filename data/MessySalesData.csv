@@ -1,0 +1,17 @@
+OrderID,Customer,Email,Phone,City,State,Order Date,Product,Category,Quantity,Unit Price,Discount %,Salesperson,Payment Mode,Order Status
+1001, Rohith ,rohith@gmail.com,9876543210, Bangalore ,Karnataka,01/02/2025,Laptop,Electronics,2,55000,10,Rahul,UPI,Completed
+1002,Anita,ANITA@GMAIL.COM,9876543211,Mumbai,Maharashtra,2025-02-04,Mouse,Electronics,3,450,0,Amit,Cash,Completed
+1003,Rahul,rahul@gmail.com,9876543212,Delhi,Delhi,4-Feb-2025,Keyboard,Electronics,1,1200,5,Priya,Card,Completed
+1004,Sneha,sneha@gmail.com,9876543213,Hyderabad,Telangana,05-02-2025,Monitor,Electronics,1,15000,15,Kiran,UPI,Completed
+1002,Anita,ANITA@GMAIL.COM,9876543211,Mumbai,Maharashtra,2025-02-04,Mouse,Electronics,3,450,0,Amit,Cash,Completed
+1005,Ajay,ajay@gmail.com,9876543214, Chennai,Tamil Nadu,06/02/25,Printer,Electronics,1,8500,5,Rahul,Card,Completed
+1006,Kiran,kiran@gmail.com,9876543215,Pune ,Maharashtra,7 Feb 2025,Laptop,Electronics,1,55000,10,Priya,UPI,Completed
+1007,Ravi,ravi@gmail.com,9876543216,Bangalore,Karnataka,,Monitor,Electronics,1,15000,0,Amit,Cash,Pending
+1008,Meena,meena@gmail.com,9876543217,Mumbai,Maharashtra,08/02/2025,Mouse,Electronics,,450,0,Rahul,UPI,Completed
+1009,Arjun,arjun@gmail.com,9876543218, Delhi ,Delhi,09-02-2025,Keyboard,Electronics,2,1200,5,Kiran,Card,Completed
+1010,Pooja,pooja@gmail.com,9876543219,Hyderabad,Telangana,10/02/2025,Laptop,Electronics,-1,55000,10,Priya,UPI,Returned
+1011,Vikram,vikram@gmail,98765432AB,Mumbai,Maharashtra,11-02-2025,Laptop,Electronics,2,55000,50,Rahul,Cash,Completed
+1012,Neha,,9876543220,Pune,Maharashtra,12-Feb-2025,Monitor,Electronics,1,,0,Amit,Card,Completed
+1013, Rohith ,rohith@gmail.com,9876543210, Bangalore ,Karnataka,13/02/2025,Laptop,Electronics,2,55000,10,Rahul,UPI,Completed
+1014,Asha,asha@gmail.com,9876543222,Chennai,Tamil Nadu,2025/02/14,Printer,Electronics,1,8500,5,Priya,Card,Cancelled
+1015,John,john@gmail.com,9876543223,Bangalore,Karnataka,15 Feb 2025,Mouse,Electronics,5,450,0,Amit,Cash,Completed

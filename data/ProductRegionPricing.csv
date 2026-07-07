@@ -1,0 +1,9 @@
+Region,ProductCode,StandardPrice,DiscountPercent
+North,P100,1600,5
+South,P100,1550,4
+North,P200,5200,10
+South,P200,5100,8
+East,P100,1580,5
+West,P200,5300,10
+East,P300,5100,6
+West,P300,5150,7

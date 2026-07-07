@@ -1,0 +1,11 @@
+OrderID,Region,Product,Salesperson,Quantity,Amount
+1001,North,Laptop,Raj,2,120000
+1002,South,Mouse,Priya,5,6000
+1003,North,Keyboard,Raj,3,5400
+1004,East,Laptop,Aman,1,60000
+1005,South,Monitor,Priya,2,18000
+1006,North,Laptop,Sneha,1,60000
+1007,East,Mouse,Aman,4,4800
+1008,South,Keyboard,Priya,2,3600
+1009,North,Monitor,Raj,1,9000
+1010,East,Laptop,Aman,2,120000
